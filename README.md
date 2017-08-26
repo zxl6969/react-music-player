@@ -5,5 +5,8 @@ use react webpack jPlayer react-router
 >npm install
 
 ## 运行开发环境
->npm start
+>npm start<br> 
 [http://localhost:3000/](http://localhost:3000/)  
+
+## 生产环境
+>npm run build
